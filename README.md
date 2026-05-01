@@ -1,5 +1,5 @@
 # :ice_cube: Rubik's Cube 3D Simulation
-> This project was developed as part of a graphics programming learning exercise, focusing on understanding how low-level rendering pipelines work.
+> A 3D Rubik’s Cube simulation developed using Python, OpenGL, and GLUT. This project demonstrates real-time graphics rendering, cube rotations, and event-driven interaction, with support for transformations, shading, and smooth animation.
 ---
 
 ## :sparkles: Features
