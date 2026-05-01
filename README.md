@@ -1,4 +1,4 @@
-# :ice_cube: GraphicsProject
+# :ice_cube: Rubik's Cube 3D Simulation
 This project was developed as part of a graphics programming learning exercise, focusing on understanding how low-level rendering pipelines work.
 
 ## :sparkles: Features
