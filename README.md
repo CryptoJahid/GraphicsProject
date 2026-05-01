@@ -9,7 +9,7 @@ This project was developed as part of a graphics programming learning exercise, 
 5. Interactive keyboard controls (W, A, S, D)
 
 ## Technologies Used
-1. Python
-2. PyOpenGL
-3. GLUT (OpenGL Utility Toolkit)
-4. GLU (OpenGL Utility Library)
+- `Python`
+- `PyOpenGL`
+- `GLUT (OpenGL Utility Toolkit)`
+- `GLU (OpenGL Utility Library)`
