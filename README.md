@@ -2,14 +2,14 @@
 This project was developed as part of a graphics programming learning exercise, focusing on understanding how low-level rendering pipelines work.
 
 ## Features
-~ 3D Rubik’s Cube structure (3×3×3 cubelets)
-~ Fog effect for realistic depth perception
-~ Perspective projection using gluPerspective
-~ Smooth shading (GL_SMOOTH)
-~ Interactive keyboard controls (W, A, S, D)
+1. 3D Rubik’s Cube structure (3×3×3 cubelets)
+2. Fog effect for realistic depth perception
+3. Perspective projection using gluPerspective
+4. Smooth shading (GL_SMOOTH)
+5. Interactive keyboard controls (W, A, S, D)
 
 ## Technologies Used
-~ Python
-~ PyOpenGL
-~ GLUT (OpenGL Utility Toolkit)
-~ GLU (OpenGL Utility Library)
+1. Python
+2. PyOpenGL
+3. GLUT (OpenGL Utility Toolkit)
+4. GLU (OpenGL Utility Library)
